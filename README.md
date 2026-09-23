@@ -49,4 +49,6 @@ pada kode ini di guanakan untuk  menampilkan struk pemesanan kamarnya yang menam
 
 
 <img width="667" height="417" alt="Cuplikan layar 2026-09-23 144013" src="https://github.com/user-attachments/assets/bfad97d8-7741-464b-a673-b0af2def9a64" />
+
+
 dan  ini untuk hsil output nya, dari kode di atas
